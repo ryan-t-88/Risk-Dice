@@ -14,7 +14,7 @@ up and the 2 and 1 are paired up. In this case each player would lose a unit (re
 - in the event of a draw between a pairing of dice, the attacking player will win.
 
 While playing, I found myself wondering what the probabilities of winning a 'skirmish' would be depending on whether you attack with
-1, 2, or 3 dice. It would be obvious that the battle would always be in the favour of the attacker, since they win any draws; but how much
+1, 2, or 3 dice. It would seem obvious that the battle would always be in the favour of the attacker, since they win any draws; but how much
 in the favour of the attacker would it be? And what about cases when the attacker only has one die, and the defender has 2?
 
 Naturally, I determined the most fun way to figure this out would be to create a Risk Dice Simulator, then run it many times to see the
